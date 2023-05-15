@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lanterne-rouge/static/css/main.2fc7e52d.css",
+    "main.js": "/lanterne-rouge/static/js/main.03bf4ca7.js",
+    "static/js/787.cc1eae18.chunk.js": "/lanterne-rouge/static/js/787.cc1eae18.chunk.js",
+    "index.html": "/lanterne-rouge/index.html",
+    "main.2fc7e52d.css.map": "/lanterne-rouge/static/css/main.2fc7e52d.css.map",
+    "main.03bf4ca7.js.map": "/lanterne-rouge/static/js/main.03bf4ca7.js.map",
+    "787.cc1eae18.chunk.js.map": "/lanterne-rouge/static/js/787.cc1eae18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fc7e52d.css",
+    "static/js/main.03bf4ca7.js"
+  ]
+}
